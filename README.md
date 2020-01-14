@@ -5,6 +5,20 @@ This is a mini project that was done as a part of curriculum of 3rd sem B.Tech.T
 
 <img src="images/main.png">
 
-<img src="images/list.png" width="300">
+
+
+
+<img src="images/list.png">
+
+
+
+
+
+<img src="images/details.png">
+
+
+
+
+
 
 
